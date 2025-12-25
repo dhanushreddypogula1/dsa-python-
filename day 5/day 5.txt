@@ -1,0 +1,6 @@
+Day 5:
+- Linked list basics
+- Reverse linked list
+- Fast & slow pointers
+- Solved LC 206
+- Solved LC 876

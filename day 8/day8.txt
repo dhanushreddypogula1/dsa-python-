@@ -1,0 +1,5 @@
+Binary search code runs
+
+ LC 704 submitted
+
+ LC 35 submitted
