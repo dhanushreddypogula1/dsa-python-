@@ -1,0 +1,5 @@
+Understood O(1), O(n), O(n²)
+
+ LC 167 submitted
+
+ LC 125 submitted
