@@ -1,0 +1,6 @@
+Day 18:
+- DP on arrays
+- Kadane’s algorithm
+- Stock profit problem
+- Solved LC 53
+- Solved LC 121

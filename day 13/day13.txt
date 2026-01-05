@@ -1,0 +1,4 @@
+- Greedy strategy
+- Sorting + greedy
+- Solved LC 455
+- Solved LC 122

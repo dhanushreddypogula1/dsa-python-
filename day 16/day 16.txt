@@ -1,0 +1,6 @@
+Day 16:
+- Backtracking technique
+- Subsets
+- Permutations
+- Solved LC 78
+- Solved LC 46

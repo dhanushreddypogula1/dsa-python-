@@ -1,0 +1,7 @@
+Day 19:
+- Grid DP
+- 2D state transition
+- Unique paths
+- Minimum path sum
+- Solved LC 62
+- Solved LC 64
